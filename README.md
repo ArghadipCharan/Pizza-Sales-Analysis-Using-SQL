@@ -1,7 +1,5 @@
 # 🍕 Pizza Sales Analysis
 
-**By Arghadip Charan**
-
 A comprehensive sales analysis project for a pizza business, using **MySQL** to uncover key insights that support better decision-making, profitability, and customer satisfaction.
 
 ---
